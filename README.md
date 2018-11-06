@@ -27,4 +27,5 @@ Backup guides
  
      sudo add-apt-repository ppa:blahota/wxmaxima
      sudo apt-get update
+     sudo apt-get install wxmaxima
      
