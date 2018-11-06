@@ -1,6 +1,6 @@
 # Backup
 Backup guides
-## To install shadowsock-qt5:
+## Shadowsock-qt5:
 
      sudo add-apt-repository ppa:hzwhuang/ss-qt5
      sudo apt-get update
