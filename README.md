@@ -5,7 +5,8 @@ Linux Backup Guides
      sudo add-apt-repository ppa:hzwhuang/ss-qt5
      sudo apt-get update
      sudo apt-get install shadowsocks-qt5
-
+     
+     (windows) https://www.softpedia.com/get/Internet/Servers/Proxy-Servers/Shadowsocks.shtml
 ## Omega switch rules :
 
      https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
